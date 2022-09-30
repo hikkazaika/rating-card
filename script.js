@@ -17,7 +17,7 @@ document.addEventListener('click', function(e) {
 document.querySelector(".submit").onclick = function(){
     if (rating == 0)
     {
-        alert("Оценку ставь сучка!")
+        alert("Select rating")
     }
     else
     {
